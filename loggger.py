@@ -1,3 +1,5 @@
+#pynput should be pre-installed to run this application
+#you can download pynput using "pip install pynput" in the terminal or cmd at the file location
 from pynput import keyboard
 
 def keyPressed(key):
